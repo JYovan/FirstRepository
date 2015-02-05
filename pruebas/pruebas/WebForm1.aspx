@@ -63,7 +63,7 @@
                 </Items>
             </ext:ComboBox>
             <div id="resultado"></div>
-
+            <div id="test"></div>
         </div>
     </form>
 </body>
