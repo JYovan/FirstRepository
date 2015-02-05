@@ -1,0 +1,10 @@
+c:\users\administrator\documents\visual studio 2013\Projects\pruebas\pruebas\bin\pruebas.dll.config
+c:\users\administrator\documents\visual studio 2013\Projects\pruebas\pruebas\bin\pruebas.dll
+c:\users\administrator\documents\visual studio 2013\Projects\pruebas\pruebas\bin\pruebas.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\pruebas\pruebas\bin\Ext.Net.dll
+c:\users\administrator\documents\visual studio 2013\Projects\pruebas\pruebas\bin\Ext.Net.Utilities.dll
+c:\users\administrator\documents\visual studio 2013\Projects\pruebas\pruebas\bin\Newtonsoft.Json.dll
+c:\users\administrator\documents\visual studio 2013\Projects\pruebas\pruebas\bin\Transformer.NET.dll
+c:\users\administrator\documents\visual studio 2013\Projects\pruebas\pruebas\obj\Debug\pruebas.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\pruebas\pruebas\obj\Debug\pruebas.dll
+c:\users\administrator\documents\visual studio 2013\Projects\pruebas\pruebas\obj\Debug\pruebas.pdb
